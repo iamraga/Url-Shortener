@@ -1,7 +1,6 @@
 'use strict';
 
 var express = require('express');
-var mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 var validUrl = require('valid-url');
 
